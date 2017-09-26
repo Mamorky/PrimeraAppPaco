@@ -28,6 +28,7 @@ public class PrimeraAppActivity extends AppCompatActivity implements View.OnClic
             actualizar();
     }
 
+    //Actualiza la fecha y la hora
     private void actualizar() {
         texto.setText(new Date().toString());
     }
