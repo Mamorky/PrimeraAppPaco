@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeraAppPaco</string>
+    <string name="fechaHora">Fecha y hora</string>
+    <string name="obtener_fecha_y_hora">Obtener fecha y hora</string>
+</resources>
